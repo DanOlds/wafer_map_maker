@@ -16,7 +16,7 @@ A Streamlit web app for creating and visualizing measurement grids on circular w
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/DanOlds/wafer_map_maker.git
-    cd map_maker
+    cd wafer_map_maker
     ```
 
 2. **Install Pixi:**
