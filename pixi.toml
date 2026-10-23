@@ -1,4 +1,5 @@
 [project]
+requires-pixi = ">=0.82.1"
 authors = ["Daniel Olds <dpolds@gmail.com>"]
 channels = ["conda-forge"]
 description = "Add a short description here"
